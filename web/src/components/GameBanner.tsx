@@ -1,5 +1,3 @@
-import React from "react";
-
 interface GameBannerProps {
   bannerUrl: string;
   title: string;
